@@ -31,10 +31,11 @@ class MyTimeSeries:
 
 
 ts = MyTimeSeries()
-timeplot(ts.get_tick, interval=40, update_style='jump')
+timeplot(ts.get_tick, interval=40, update_style='cont')
 # Also check out:
-# timeplot(ts.get_tick, interval=40, update_style='cont')
+# timeplot(ts.get_tick, interval=40, update_style='jump')
 ```
+![simple_example.py](../examples/simple_example.jpg)
 
 See [`examples/multiple_lines.py`](../examples/multiple_lines.py) for a slightly more sophisticated example.
 
