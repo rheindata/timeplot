@@ -2,7 +2,7 @@
 
 A Python module for fancy realtime plots.
 This was built with financial time series in mind, but hopefully also serves other purposes.
-The function `timeplot` is built on Matplotlib's `FuncAnimation`.
+Built on Matplotlib's `FuncAnimation`.
 
 ## Getting started
 The single required argument for `timeplot` is a function `f` that returns a tuple `(t, y1, ..., yn)`.
