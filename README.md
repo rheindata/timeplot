@@ -35,9 +35,9 @@ timeplot(ts.get_tick, interval=40, update_style='cont')
 # Also check out:
 # timeplot(ts.get_tick, interval=40, update_style='jump')
 ```
-![simple_example.jpg](https://github.com/rheindata/timeplot/blob/master/examples/simple_example.jpg)
+![simple_example.jpg](/examples/simple_example.jpg)
 
-See [`examples/multiple_lines.py`](https://github.com/rheindata/timeplot/blob/master/examples/multiple_lines.py) for a slightly more sophisticated example.
+See [`examples/multiple_lines.py`](/examples/multiple_lines.py) for a slightly more sophisticated example.
 
 ## Changing the look
 There are a few additional parameters that can easily be changed to customize the plot layout; check out the inline information on the variables `padding`, `colortheme`, `time_format` and `date_format` for more information. 
