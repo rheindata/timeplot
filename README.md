@@ -39,4 +39,5 @@ timeplot(ts.get_tick, interval=40, update_style='jump')
 See [`examples/multiple_lines.py`](../examples/multiple_lines.py) for a slightly more sophisticated example.
 
 ## Changing the look
-In addition to the provided options, the `timeplot` has a few additional parameters that can easily be changed to customize the plot layout; check out the inline information on the variables `padding`, `colortheme`, `time_format` and `date_format` for more information. 
+There are a few additional parameters that can easily be changed to customize the plot layout; check out the inline information on the variables `padding`, `colortheme`, `time_format` and `date_format` for more information. 
+Also feel free to change features of the `fig` and `ax` objects inside the `init()` function.
