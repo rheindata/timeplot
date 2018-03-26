@@ -36,7 +36,7 @@ timeplot(ts.get_tick, interval=40, update_style='cont')
 # timeplot(ts.get_tick, interval=40, update_style='jump')
 ```
 <p align="center">
-<a href="url"><img src="https://github.com/rheindata/timeplot/blob/master/examples/simple_example.jpg" width="600" ></a>
+<a href="url"><img src="https://github.com/rheindata/timeplot/blob/master/examples/simple_example.jpg" width="460" ></a>
 </p>
 
 See [`examples/multiple_lines.py`](/examples/multiple_lines.py) for a slightly more sophisticated example.
