@@ -35,7 +35,7 @@ timeplot(ts.get_tick, interval=40, update_style='cont')
 # Also check out:
 # timeplot(ts.get_tick, interval=40, update_style='jump')
 ```
-![simple_example.jpg](/examples/simple_example.jpg)
+![simple_example.jpg](/examples/simple_example.jpg | width=100)
 
 See [`examples/multiple_lines.py`](/examples/multiple_lines.py) for a slightly more sophisticated example.
 
